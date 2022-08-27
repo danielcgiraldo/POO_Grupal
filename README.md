@@ -19,4 +19,4 @@ Hola 👋 cada ejercicio resuelto se encuentra en la carpeta src dentro de la ca
 
 Atentamente,\
 Juan y Daniel,\
-Estudiante Ingeniería de Sistemas
+Estudiantes Ingeniería de Sistemas
