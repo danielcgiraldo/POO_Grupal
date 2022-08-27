@@ -3,9 +3,9 @@
 | --- | --- |
 | **Asignatura:** | Programación Orientada a Objetos |
 | **Profesor:** | Walter Arboleda |
-| **Integrante 2:** | Juan Esteban Yela Benavides |
+| **Integrante 1:** | Juan Esteban Yela Benavides |
 | **Correo:** | jyelab@unal.edu.co |
-| **Integrante 1:** | Daniel Castillo Giraldo  |
+| **Integrante 2:** | Daniel Castillo Giraldo  |
 | **Correo:** | dcastillogi@unal.edu.co |
 
 
