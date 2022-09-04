@@ -26,7 +26,7 @@
 					"_parent": {
 						"$ref": "AAAAAAFF+qBWK6M3Z8Y="
 					},
-					"name": "Main",
+					"name": "Parte 2",
 					"ownedViews": [
 						{
 							"_type": "UMLClassView",
@@ -338,7 +338,7 @@
 											"top": 190,
 											"width": 214,
 											"height": 13,
-											"text": "+base: int",
+											"text": "+base: double",
 											"horizontalAlignment": 0
 										},
 										{
@@ -355,7 +355,7 @@
 											"top": 205,
 											"width": 214,
 											"height": 13,
-											"text": "+altura: int",
+											"text": "+altura: double",
 											"horizontalAlignment": 0
 										}
 									],
@@ -586,7 +586,7 @@
 											"top": 334,
 											"width": 167,
 											"height": 13,
-											"text": "+radio: int",
+											"text": "+radio: double",
 											"horizontalAlignment": 0
 										}
 									],
@@ -817,7 +817,7 @@
 											"top": 334,
 											"width": 175,
 											"height": 13,
-											"text": "+lado: int",
+											"text": "+lado: double",
 											"horizontalAlignment": 0
 										}
 									],
@@ -1048,7 +1048,7 @@
 											"top": 158,
 											"width": 231,
 											"height": 13,
-											"text": "+base: int",
+											"text": "+base: double",
 											"horizontalAlignment": 0
 										},
 										{
@@ -1065,7 +1065,7 @@
 											"top": 173,
 											"width": 231,
 											"height": 13,
-											"text": "+altura: int",
+											"text": "+altura: double",
 											"horizontalAlignment": 0
 										}
 									],
@@ -2459,7 +2459,7 @@
 								"$ref": "AAAAAAGC/Gf1MBnWBKg="
 							},
 							"name": "base",
-							"type": "int"
+							"type": "double"
 						},
 						{
 							"_type": "UMLAttribute",
@@ -2468,7 +2468,7 @@
 								"$ref": "AAAAAAGC/Gf1MBnWBKg="
 							},
 							"name": "altura",
-							"type": "int"
+							"type": "double"
 						}
 					],
 					"operations": [
@@ -2527,7 +2527,7 @@
 								"$ref": "AAAAAAGC/GgWhBoBPKM="
 							},
 							"name": "radio",
-							"type": "int"
+							"type": "double"
 						}
 					],
 					"operations": [
@@ -2586,7 +2586,7 @@
 								"$ref": "AAAAAAGC/GgyKRosnRA="
 							},
 							"name": "lado",
-							"type": "int"
+							"type": "double"
 						}
 					],
 					"operations": [
@@ -2645,7 +2645,7 @@
 								"$ref": "AAAAAAGC/GhIeRpWszs="
 							},
 							"name": "base",
-							"type": "int"
+							"type": "double"
 						},
 						{
 							"_type": "UMLAttribute",
@@ -2654,7 +2654,7 @@
 								"$ref": "AAAAAAGC/GhIeRpWszs="
 							},
 							"name": "altura",
-							"type": "int"
+							"type": "double"
 						}
 					],
 					"operations": [

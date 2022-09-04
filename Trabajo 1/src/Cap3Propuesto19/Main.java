@@ -1,7 +1,7 @@
-package Capitulo3;
+package Cap3Propuesto19;
 import java.util.Scanner;
 
-public class Propuesto19 {
+public class Main {
 	public static void main(String[] args) {
 		Triangulo mitriangulo = new Triangulo(); 
 		System.out.print("Ingrese el lado: ");
