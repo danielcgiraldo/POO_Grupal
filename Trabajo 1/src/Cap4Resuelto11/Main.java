@@ -1,8 +1,9 @@
-package Capitulo4;
+package Cap4Resuelto11;
+
 
 import java.util.Scanner;
 
-public class Resuelto11 {
+public class Main {
 	public static void main(String[] args) {
 		Scanner entrada = new Scanner(System.in);
 		System.out.println("Digita 3 números enteros:");

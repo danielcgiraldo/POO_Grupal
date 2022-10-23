@@ -1,8 +1,9 @@
-package Capitulo4;
+package Cap4Resuelto13;
+
 
 import java.util.Scanner;
 
-public class Resuelto13 {
+public class Main {
 	public static void main(String[] args) {
 		double discount, compra;
 		Scanner entrada = new Scanner(System.in);

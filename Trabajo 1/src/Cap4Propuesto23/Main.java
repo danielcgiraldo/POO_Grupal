@@ -1,8 +1,7 @@
-package Capitulo4;
-
+package Cap4Propuesto23;
 import java.util.Scanner;
 
-public class Propuesto23 {
+public class Main {
 	public static void main(String[] args) {
 		Scanner entrada = new Scanner(System.in);
 		System.out.println("Sea una ecuación de segundo grado Ax^2 + Bx + C digite A, B, C en el orden respectivo:");

@@ -1,8 +1,9 @@
-package Capitulo4;
+package Cap4Resuelto15;
+
 
 import java.util.Scanner;
 
-public class Resuelto15 {
+public class Main {
 	public static void main(String[] args) {
 		Scanner entrada = new Scanner(System.in);
 		System.out.print("Digite el peso de la esfera A: ");
